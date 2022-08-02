@@ -1,0 +1,36 @@
+body {
+    font-family: cursive;
+
+}
+h2 {
+    margin-bottom: 30px;
+}
+
+.navbar-header {
+    background-color: grey;
+    color:white;
+    height:50px;
+    width:100%
+}
+
+
+.container-fluid {
+    background-color: grey;
+    margin-top:-9px;
+    height:60px;
+}
+.page-header {
+    margin:20px;
+    margin-bottom:80px;
+}
+
+.nav-item {
+    list-style: none;
+    background-color:lightgrey;
+}
+
+#content {
+    background-color: lightgrey;
+}
+
+
